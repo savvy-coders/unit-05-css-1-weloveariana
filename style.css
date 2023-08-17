@@ -1,24 +1,10 @@
 /* CSS Stylesheet */
 
-body {
-  background-color: RGB(233, 233, 233); /* Requirement 2 */
-}
+/* Instructions are copied here for convenience: */
+/* 1. Change the background color of the form's body element to "RGB(233, 233, 233)". */
+/* 2. Increase the font size of the form's h1 element to 32 pixels. */
+/* 3. Add a 2-pixel solid border to the form's container class with the color "RGB(204, 204, 204)". */
+/* 4. Change the text color of the form's button element to "RGB(255, 255, 255)". */
+/* 5. Add a 4-pixel border radius to the form's button element. */
+/* 6. Use the :active pseudo-class to change the background color of the button to "RGB(0, 86, 179)" when active/clicked. */
 
-h1 {
-  font-size: 32px; /* Requirement 3 */
-}
-
-.container {
-  border: 2px solid RGB(204, 204, 204); /* Requirement 4 */
-} 
-
-button {
-  color: RGB(255, 255, 255); /* Requirement 5 */
-  border-radius: 4px; /* Requirement 6 */
-  padding-top: 10px;
-  padding-bottom: 10px; 
-}
-
-button:active {
-  background-color: RGB(0, 86, 179); /* Requirement 7 */
-}
