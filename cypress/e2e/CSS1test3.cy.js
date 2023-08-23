@@ -5,6 +5,6 @@ describe('CSS Challenge Page', () => {
     
     it('Verifies h1 font size', () => {
       // Test h1 font size
-      cy.get('h1').should('have.css', 'font-size', '32px');
+      cy.get('h1').should('have.css', 'font-size', '40px');
     });
 });
