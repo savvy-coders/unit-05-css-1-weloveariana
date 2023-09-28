@@ -6,6 +6,5 @@ describe('CSS Challenge Page', () => {
     it('Verifies button border radius', () => {
       // Test button border radius
       cy.get('button').should('have.css','border-radius', '4px');
-      cy.wait(500);
     });
   });
