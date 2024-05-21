@@ -10,7 +10,7 @@ Challenge:
 
 2. Change the background color of the form's `body` element to "RGB(233, 233, 233)".
 
-3. Increase the font size of the form's `h1` element to 32 pixels.  
+3. Increase the font size of the form's `h1` element to 40 pixels.  
 
 4. Add a 2-pixel solid border to the form's `container` class with the color "RGB(204, 204, 204)".
 
